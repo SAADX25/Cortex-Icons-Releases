@@ -24,4 +24,5 @@
 win: {
   icon: "path/to/icon.ico",
 }
-<img width="443" height="593" alt="image" src="https://github.com/user-attachments/assets/a8a8068c-371d-486a-9085-0f2c496b6fdd" />
+
+<img width="443" height="593" alt="Screenshot 2026-02-06 173421" src="https://github.com/user-attachments/assets/bbf9178b-94dc-4982-abf7-e07c3be3925d" />
