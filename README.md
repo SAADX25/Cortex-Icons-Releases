@@ -1,28 +1,32 @@
 # 🎨 Cortex Icons 🚀
 
-> مجموعة أيقونات احترافية وعالية الدقة مصممة خصيصاً لمشروع 
+> A collection of professional, high-resolution icons designed specifically for the project
+
 ---
+## 📌 About the Project
+The **Cortex Icons** project is the official library of icons used in our applications. We focus on modern design, clarity, and full compatibility with Windows user interfaces and Electron applications.
 
-## 📌 عن المشروع (About)
-مشروع **Cortex Icons** هو المكتبة الرسمية للأيقونات المستخدمة في تطبيقاتنا. نركز على التصميم العصري، الوضوح، والتوافق التام مع واجهات مستخدم نظام ويندوز وتطبيقات Electron.
+## 📁 Repository Contents
+* **Icons/**: Includes all icons in PNG format with various sizes (256x256, 512x512).
 
-## 📁 محتويات المستودع
-* **Icons/**: تضم جميع الأيقونات بصيغة PNG بمقاسات مختلفة (256x256, 512x512).
-* **Builds/**: تحتوي على ملفات الـ `.ico` الجاهزة للاستخدام في تطبيقات سطح المكتب.
-* **Assets/**: المصادر الأصلية للتصاميم.
+* **Builds/**: Contains ready-to-use `.ico` files for desktop applications.
+
+* **Assets/**: Original design resources.
 
 * <img width="443" height="593" alt="Screenshot 2026-02-06 173421" src="https://github.com/user-attachments/assets/13528e7c-ec9f-4f3b-895d-e1ca618d04fb" />
 
+## 🛠️ Technical Specifications
+* **Supported Formats:** PNG, ICO.
 
-## 🛠️ المواصفات التقنية
-* **الصيغ المدعومة:** PNG, ICO.
-* **أعلى دقة:** 512x512 بكسل.
-* **نمط التصميم:** Modern Gradient (النمط الوردي الحديث).
+* **Maximum Resolution:** 512x512 pixels.
 
-## 🚀 كيفية الاستخدام في Electron
-لإضافة الأيقونة لمشروعك، تأكد من تعديل مسار الأيقونة في ملف `electron-builder.json5`:
+* **Design Style:** Modern Gradient.
+
+## 🚀 How to Use in Electron
+To add the icon to your project, make sure to modify the icon path in your `electron-builder.json5` file:
 
 ```json5
 win: {
-  icon: "path/to/icon.ico",
+icon: "path/to/icon.ico",
+
 }
