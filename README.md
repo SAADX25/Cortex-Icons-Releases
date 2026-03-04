@@ -12,8 +12,9 @@ The **Cortex Icons** project is the official library of icons used in our applic
 * **Builds/**: Contains ready-to-use `.ico` files for desktop applications.
 
 * **Assets/**: Original design resources.
+<img width="426" height="775" alt="Screenshot 2026-03-04 022824" src="https://github.com/user-attachments/assets/41cba5a6-a0aa-41ff-bb39-83245bdface0" />
+<img width="416" height="779" alt="Screenshot 2026-03-04 022807" src="https://github.com/user-attachments/assets/e1ecae70-ecea-4677-800e-ec190fcfef5b" />
 
-* <img width="443" height="593" alt="Screenshot 2026-02-06 173421" src="https://github.com/user-attachments/assets/13528e7c-ec9f-4f3b-895d-e1ca618d04fb" />
 
 ## 🛠️ Technical Specifications
 * **Supported Formats:** PNG, ICO.
