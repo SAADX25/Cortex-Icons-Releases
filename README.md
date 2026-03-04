@@ -1,17 +1,20 @@
-# 🎨 Cortex Icons 🚀
+<div align="center">
 
-> A collection of professional, high-resolution icons designed specifically for the project
+# 🎨 Cortex Icons & Files 🚀
+*A masterfully crafted collection of professional, high-resolution icons and the ultimate folder customization utility.*
+
+</div>
 
 ---
+
 ## 📌 About the Project
-The **Cortex Icons** project is the official library of icons used in our applications. We focus on modern design, clarity, and full compatibility with Windows user interfaces and Electron applications.
+**Cortex Icons** is the official, premium library of icons used across our applications. We focus on modern aesthetics, absolute clarity, and seamless integration with Windows 11 and Electron applications.
 
 ## 📁 Repository Contents
-* **Icons/**: Includes all icons in PNG format with various sizes (256x256, 512x512).
+* 🖼️ **Icons/**: Includes all source icons in PNG format, rendered in ultra-high resolutions (256x256, 512x512).
+* 📦 **Builds/**: Ready-to-use, perfectly formatted `.ico` files optimized for Windows desktop applications.
+* 🎨 **Assets/**: The original design resources and raw vectors.
 
-* **Builds/**: Contains ready-to-use `.ico` files for desktop applications.
-
-* **Assets/**: Original design resources.
 <p align="center">
   <table>
     <tr>
@@ -21,19 +24,24 @@ The **Cortex Icons** project is the official library of icons used in our applic
   </table>
 </p>
 
+---
 
-## 🛠️ Technical Specifications
-* **Supported Formats:** PNG, ICO.
+## 🚀 Cortex Files | Version 0.2.5 (The Apex Update)
+**Developed by [@SAADX25](https://github.com/SAADX25)**
 
-* **Maximum Resolution:** 512x512 pixels.
+This update transforms **Cortex Files** into a high-performance, professional-grade utility for Windows 11. We’ve rebuilt the core engine and refined the visual experience to deliver unparalleled speed and aesthetics.
 
-* **Design Style:** Modern Gradient.
+### 💎 Cinematic Fluidity & Design
+* **Recent Colors History:** Never lose your favorite palette. A new dynamic history bar remembers your last 5 colors for instant access.
+* **Smooth Fade Transitions:** Navigation is now buttery smooth. Enjoy elegant fade-in animations when switching between Custom and Gallery modes.
+* **Premium UI Redesign:** Every component, including the new dropdown menus and minimalist modals, has been handcrafted to eliminate system-default clutter.
 
-## 🚀 How to Use in Electron
-To add the icon to your project, make sure to modify the icon path in your `electron-builder.json5` file:
+### ⚡ The "Apex" Performance Engine
+* **Async Staggered Loading:** The Gallery now opens instantly. Our new asynchronous engine loads hundreds of icons using a "Waterfall" effect, ensuring zero UI freezing even with massive libraries.
+* **Bulk Operation Stability:** Applying or restoring icons to dozens of folders is now handled in the background. The app remains fully responsive while the work gets done.
 
-```json5
-win: {
-icon: "path/to/icon.ico",
+### 🛠️ High-Definition Standards
+* **Windows 11 Native Quality:** Exported icons now strictly follow the **256x256 High-Res** standard. No more pixelation—just crystal-clear, professional icons for your folders.
+* **Branded Shell Integration:** Your personalized **Cortex** branding now appears proudly in the Windows Context Menu, complete with the custom application icon.
 
-}
+---
